@@ -229,7 +229,7 @@ python test_hll.py
 
 | Test | Gerçek Değer | HLL Tahmini | Hata | Teorik Sınır |
 |---|:---:|:---:|:---:|:---:|
-| Büyük Veri | 393,369 | 406,226 | %3.27 | %2.30 |
+| Büyük Veri | 393,369 | 406,226 | %3.24 | %2.30 |
 | Merge | 100,000 | 102,546 | %2.55 | %2.30 |
 
 ---
